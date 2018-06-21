@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Mi Tienda Virtual</string>
+    //GENERAL
+    <string name="lbl_admin">Ir al panel de Administrador</string>
+    <string name="lbl_confirm">Confirmar</string>
+    <string name="lbl_enter">Ingresar</string>
+    <string name="lbl_back">Regresar</string>
+    <string name="lbl_email">Correo</string>
+    <string name="lbl_pass">Contraseña</string>
+    <string name="lbl_name">Nombre</string>
+    <string name="lbl_lastname">Apellido</string>
+    <string name="lbl_address">Direccion</string>
+    <string name="lbl_add">Agregar</string>
+    <string name="lbl_update">Actualizar</string>
+    <string name="lbl_list">Ver lista</string>
+    <string name="lbl_author1">Fernando Calmet Ramirez</string>
+    <string name="lbl_author2">Miguel Norabuena Diaz</string>
+    //MAIN
+    <string name="lbl_main_title1">CLIENTE</string>
+    <string name="lbl_main_desc1">Conectarse</string>
+    <string name="lbl_main_title2">PROMOCIONES</string>
+    <string name="lbl_main_desc2">Ver Novedades</string>
+    <string name="lbl_main_title3">RECARGAS</string>
+    <string name="lbl_main_desc3">Comprar saldo</string>
+    <string name="lbl_main_title4">AYUDA</string>
+    <string name="lbl_main_desc4">Preguntas frecuentes</string>
+    <string name="lbl_main_title5">CATALOGO DE TIENDA</string>
+    <string name="lbl_main_desc5">Ver lista de productos</string>
+    //ADMINCP
+    <string name="lbl_adm_prodtitle">ADMINISTRACION DE PRODUCTOS</string>
+    <string name="lbl_adm_prodname">Nombre de producto</string>
+    <string name="lbl_adm_prodprice">Precio de producto</string>
+    <string name="lbl_adm_proddesc">Descripcion de producto</string>
+    //CLIENTE
+    <string name="lbl_cli_title">Iniciar sesion</string>
+    <string name="lbl_cli_recover">Olvidaste tu contraseña?</string>
+    //LOGIN
+    <string name="lbl_login_user">Area para Clientes</string>
+    <string name="lbl_login_admin">Area para Personal</string>
+    //PERFIL
+    <string name="lbl_profile_name">Nombre de usuario</string>
+    <string name="lbl_profile_saludo">Hola! bienvenido </string>
+    //RECARGAS
+    <string name="lbl_cash_title">Recargas de saldo</string>
+    <string name="lbl_cash_note">PROXIMAMENTE</string>
+    //AYUDA
+    <string name="lbl_help_title">SECCION DE AYUDA EN DESARROLLO</string>
+    <string name="lbl_help_note">Aplicacion desarrollada por:</string>
+    //ROW
+    <string name="lbl_row_name">Nombre:</string>
+    <string name="lbl_row_nameprod">Nombre aqui</string>
+    <string name="lbl_row_price">Precio:</string>
+    <string name="lbl_row_priceprod">00.00</string>
+    <string name="lbl_row_desc">Descripcion:</string>
+    <string name="lbl_row_descprod">Descripcion aqui</string>
+    //SHOP
+    <string name="lbl_shop_btnprod">CATALOGO DE PRODUCTOS</string>
+    <string name="lbl_shop_txtpromos">NOVEDADES Y PROMOCIONES</string>
+    //PROMOS
+    <string name="lbl_promo_title">Titulo</string>
+    <string name="lbl_promo_desc">Descripcion</string>
+</resources>
